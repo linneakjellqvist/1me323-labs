@@ -14,3 +14,22 @@ h1 {
     font-weight: 800;
     color: brown;
 }
+
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-left: 0.5rem;
+}
+
+.badge.done {
+  background-color: #c6f6d5;
+  color: #276749;
+}
+
+.badge.wip {
+  background-color: #fefcbf;
+  color: #975a16;
+}
