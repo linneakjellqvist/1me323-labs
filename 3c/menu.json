@@ -1,0 +1,17 @@
+{
+    "resturang": {
+        "namn": "Two spoons",
+        "Beskrivning": "Two spoons serverar traditionell husmanskost i världsklass, recepten är ärvda från generation till generation. Så besök oss för en smak av det förflutna med en modern twist."
+    },
+    "Kategori": [
+        {
+            "name": "Förrätter",
+            "Dishes": [
+                {
+                    "Name": "Toast Skagen",
+                    "pris": 70
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Hej jag heter linnea jag går interaktiva medier och webbteknologier. Idag lär jag mig om fetch, detta handlar om att hämta promises från andra filer. Men för att. den inte endast ska pendla och ladda så måste man använda olika steg såsom then och text.
